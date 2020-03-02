@@ -1,3 +1,4 @@
+print("hi")
 word = raw_input("Type a word   ")
 wordList = list(word.lower())
 updatedSpaces = []
